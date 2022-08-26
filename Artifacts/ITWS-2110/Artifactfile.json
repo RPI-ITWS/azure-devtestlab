@@ -1,8 +1,8 @@
 {
   "$schema": "https://raw.githubusercontent.com/Azure/azure-devtestlab/master/schemas/2016-11-28/dtlArtifacts.json",
-  "title": "ITWS 1100 Linux Scripts",
+  "title": "ITWS 2110 Linux Scripts",
   "publisher": "RPI - ITWS",
-  "description": "This Azure DevTest Labs artifact installs various requirements for the ITWS 1100 course at RPI.",
+  "description": "This Azure DevTest Labs artifact installs various requirements for the ITWS 2110 course at RPI.",
   "tags": [
       "Linux"
   ],
@@ -10,6 +10,6 @@
   "targetOsType": "Linux",
   "parameters": {},
   "runCommand": {
-      "commandToExecute": "['sh itws-1100.sh']"
+      "commandToExecute": "['sh itws-2110.sh']"
   }
 }

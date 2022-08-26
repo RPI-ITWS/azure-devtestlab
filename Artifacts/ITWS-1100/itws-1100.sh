@@ -6,4 +6,8 @@
 #
 set -e
 
-echo "----------- Script Complete -----------"
+# Update Apt
+apt update
+
+# Install packages
+apt install git tmux nano -y

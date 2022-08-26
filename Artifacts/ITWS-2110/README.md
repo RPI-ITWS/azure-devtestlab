@@ -1,6 +1,6 @@
-# ITWS 1100
+# ITWS 2110
 
-This Azure DevTest Labs artifact installs various requirements for the ITWS 1100 course at RPI.
+This Azure DevTest Labs artifact installs various requirements for the ITWS 2110 course at RPI.
 
 ## Usage
 
